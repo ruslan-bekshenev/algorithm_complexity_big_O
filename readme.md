@@ -159,7 +159,7 @@
 
 ## Big O Complexity chart
 
-[logo](https://github.com/ruslan-bekshenev/algorithm_complexity_big_O/images/graph.jpeg)
+[logo]https://github.com/ruslan-bekshenev/algorithm_complexity_big_O/blob/master/images/graph.jpeg)
 
 ## Отбрасывание констант и несущественной части
 
