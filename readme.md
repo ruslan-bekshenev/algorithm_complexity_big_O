@@ -27,7 +27,6 @@
 ## O(1)
 
 ```
-  // возвращает последний элемент
   function getLastElement(arr) {
     return arr[arr.length-1];
   }
